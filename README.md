@@ -22,7 +22,7 @@ To run the game, ensure you have the following:
 - **OpenCV**: A library for computer vision tasks. Install it using:
   ```bash
   pip install opencv-python
--**NumPy**: A library for numerical operations. Install it using:
+- **NumPy**: A library for numerical operations. Install it using:
   ```bash
   pip install numpy
 
