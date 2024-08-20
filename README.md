@@ -13,5 +13,13 @@ This interactive game allows you to control a paddle using hand movements to kee
 3. **Control the Paddle**: Move your hand to control the paddle and keep the ball in play.
 4. **Score Points**: Try to keep the ball bouncing and prevent it from falling off the screen.
 
+## Requirements
 
+To run the game, ensure you have the following:
+
+- **Webcam/Camera**: Connected to your computer to track hand movements.
+- **Python**: Make sure Python is installed. You can download it from [python.org](https://www.python.org/).
+- **OpenCV**: A library for computer vision tasks. Install it using:
+  ```bash
+  pip install opencv-python
 
