@@ -1,10 +1,10 @@
 import cv2
 import numpy as np
-from utils.hand_detection import HandDetection
-from utils.ball import Ball
-from utils.Paddle import Paddle
-from utils.collision import collision
-from utils.constants import WIDTH, HEIGHT, ball_radius, PADDLE_WIDTH, PADDLE_HEIGHT, WHITE, speed_increment
+from hand_detection import HandDetection
+from ball import Ball
+from Paddle import Paddle
+from collision import collision
+from constants import WIDTH, HEIGHT, ball_radius, PADDLE_WIDTH, PADDLE_HEIGHT, WHITE, speed_increment
 
 # Initialize video capture
 vid = cv2.VideoCapture(0)
